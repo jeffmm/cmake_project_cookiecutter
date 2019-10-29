@@ -1,4 +1,4 @@
-file(GLOB HEADERS CONFIGURE_DEPENDS "${{{ cookiecutter.project_name }}_SOURCE_DIR}/include/{{ cookiecutter.repo_name }}/*.hpp")
+file(GLOB HEADERS CONFIGURE_DEPENDS "${PROJECT_SOURCE_DIR}/include/{{ cookiecutter.repo_name }}/*.hpp")
 
 file(GLOB SOURCES CONFIGURE_DEPENDS "*.cpp")
 
