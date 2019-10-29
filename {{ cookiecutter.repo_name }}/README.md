@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}.svg?branch=master)](https://travis-ci.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }})
 
-{{ cookiecutter.project_short_description }}
+{{ cookiecutter.project_description }}
 
 ## Building From Source
 
