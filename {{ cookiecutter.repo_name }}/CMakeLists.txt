@@ -6,6 +6,10 @@ project ({{ cookiecutter.project_name }}
     LANGUAGES CXX
 )
 
+# Require C++11 for Catch2
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED YES)
+
 # Only build documentation if this is the main project, and not if it is included through add_subdirectory
 if(CMAKE_PROJECT_NAME STREQUAL PROJECT_NAME)
     # Docs only available if this is the main project
