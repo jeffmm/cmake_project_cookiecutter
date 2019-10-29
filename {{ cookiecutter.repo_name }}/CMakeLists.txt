@@ -1,8 +1,8 @@
 
 cmake_minimum_required (VERSION 3.4)
 project ({{ cookiecutter.project_name }}
-    VERSION {{ cookie_cutter.version }}
-    DESCRIPTION {{ cookie_cutter.project_description }}
+    VERSION {{ cookiecutter.version }}
+    DESCRIPTION {{ cookiecutter.project_description }}
     LANGUAGES CXX
 )
 
