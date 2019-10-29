@@ -1,0 +1,10 @@
+{
+	"full_name": "John Galt",
+	"email": "john@galt.com",
+	"github_username": "johngalt",
+	"project_name": "project_name",
+	"repo_name": "project_name",
+	"project_description": "A C++ project using CMake",
+	"year": "2019",
+	"version": "0.1.0"
+}
