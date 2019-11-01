@@ -1,7 +1,7 @@
 {
-	"full_name": "John Galt",
-	"email": "john@galt.com",
-	"github_username": "johngalt",
+	"full_name": "Don Quixote",
+	"email": "don@quixote.com",
+	"github_username": "donquixote",
 	"project_name": "ProjectName",
 	"repo_name": "project_name",
 	"project_description": "A C++ project using CMake",
