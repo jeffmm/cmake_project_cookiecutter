@@ -1,5 +1,5 @@
 
-include_directories(catch2)
+include_directories(../thirdparty/catch2)
 
 add_executable(test_{{ cookiecutter.repo_name }} test_{{ cookiecutter.repo_name }}.cpp)
 
