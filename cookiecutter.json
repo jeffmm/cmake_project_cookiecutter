@@ -4,7 +4,10 @@
 	"github_username": "donquixote",
 	"project_name": "ProjectName",
 	"repo_name": "project_name",
+	"dockerhub_username": "donquixote",
+	"docker_base_image": "["Alpine-gxx", "Debian", "Ubuntu"],
 	"project_description": "A C++ project using CMake",
-	"year": "2019",
-	"version": "0.1.0"
+	"year": "2020",
+	"version": "0.1.0",
+    "license": "["MIT", "BSD-3", "GNU GPL v3.0", "Apache Software License 2.0"]
 }

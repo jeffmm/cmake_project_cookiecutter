@@ -1,6 +1,6 @@
 # CMake Project Cookiecutter
 
-This repo is a Cookiecutter template for C++ projects using CMake, Catch2, Doxygen, and continuous integration with Travis CI.
+This repo is a Cookiecutter template for C++ projects using CMake, Catch2, Doxygen, containerization with Docker, and continuous integration with Travis CI.
 
 ## Scaffolding the project
 
